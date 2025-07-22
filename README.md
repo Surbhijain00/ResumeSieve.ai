@@ -12,11 +12,19 @@
 
 • Technologies used: Python, Flask, NLTK, Scikit-learn, Docker, Node, MongoDB, React
 
-## About the Project
 
-Every day, thousands of Job Listings are created to help the companies meet the ever growing demand of market by recruiting fresh talent. The job of a Recruiter is a very hard and important. It’s like identifying a needle in a haystack. But in the age of Artificial Intelligence it can be eased out for them through our product, Sieve.ai.
 
-Sieve.ai reduces the burden on a Recruiter by leaving the tedious and repetitive task of going through thousands of resumes, of which only are handful are relevant. Just upload all the CVs into the system and receive a list of names of candidates and their respective CVs in descending order of their relevance to the Job Description. Reduce your Recruitment Turn Around Time with just a click.
+## Idea
+A regular day for a Recruiter consists of going through hundreds of resumes for a few specific roles to be hired. Only 10 to 15 percent of these resumes are relevant and suitable to the position they hire for. This takes up hours of a Recruiter’s time to filter out the top resumes out of the stack. So, the idea was to create an application that would screen and rank the resumes as per fitment with the help of Al
+
+## About the Project or Our Solution
+
+Every day, thousands of Job Listings are created to help the companies meet the ever growing demand of market by recruiting fresh talent. The job of a Recruiter is a very hard and important. It’s like identifying a needle in a haystack. But in the age of Artificial Intelligence it can be eased out for them through our product, ResumeSieve.ai.
+
+ResumeSieve.ai reduces the burden on a Recruiter by leaving the tedious and repetitive task of going through thousands of resumes, of which only are handful are relevant. Just upload all the CVs into the system and receive a list of names of candidates and their respective CVs in descending order of their relevance to the Job Description. Reduce your Recruitment Turn Around Time with just a click.
+
+
+
 
 ## Getting Started
 
@@ -97,6 +105,11 @@ python app.py
 - It can process up to 3000 resumes per hour
 - Added Google OAuth and Password-based authentication to maintain the privacy
 - Recruiters can export shortlisted candidates details, scores as CSV
+
+## Stats
+- Achieved an classification accuracy of 95%
+- Tested on 20 classes of broad job categories and 900+ resumes
+- Can process up to 3000 resumes per hour
 
 ## Architecture
 - [Dataset Used](https://www.kaggle.com/gauravduttakiit/resume-dataset)
