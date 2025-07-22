@@ -26,7 +26,7 @@ ResumeSieve.ai reduces the burden on a Recruiter by leaving the tedious and repe
 
 
 
-## Getting Started
+## 🚀 Getting Started
 
 Start developing locally.
 
@@ -83,7 +83,7 @@ cd middleware
 python app.py
 ```
 
-## Technologies used
+## 🛠️ Technologies used
 
 - Node
 - Express
@@ -96,7 +96,7 @@ python app.py
 - Numpy
 - Docker
 
-## Features
+## 🚀 Features
 
 - 2 Layer Filter Mechanism:
   - **Role-Based** – It features an AI classifier trained with 900+ resumes that can classify the resumes into 20 broad categories of Job roles with an accuracy of 95%.
